@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "location":"New Road, Pokhara",
+        "Number":98066478
+
+    },
+    {
+        "id":1,
+        "location":"Mahendrapool, Pokhara",
+        "Number":98066478
+
+    },
+    {
+        "id":2,
+        "location":"Kathmandu",
+        "Number":98066478
+
+    },
+    {
+        "id":3,
+        "location":"Butwal",
+        "Number":98066478
+
+    },
+    {
+        "id":4,
+        "location":"Chitwan",
+        "Number":98066478
+
+    },
+    {
+        "id":5,
+        "location":"New Road, Pokhara",
+        "Number":98066478
+
+    },
+    {
+        "id":6,
+        "location":"New Road, Pokhara",
+        "Number":98066478
+
+    }
+]
